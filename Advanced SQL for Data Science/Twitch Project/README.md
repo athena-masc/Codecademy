@@ -5,6 +5,7 @@ In this project, you will be working with two tables that contain Twitch usersâ€
 Stream viewing data:
 
  - stream table
+   
 Chat usage data:
 
  - chat table
